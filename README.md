@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @timpratim
-- 👀 I’m interested in Full stack Development. I code in Java normaly
-- 🌱 I’m currently learning javascript
+- 👀 I’m a developer advocate at Dasha.ai
+- 🌱 I’m currently learning Web3
 - 📫 You can reach me on Twitter https://twitter.com/BhosalePratim or via mail pratimbhosale@gmail.com
 
 
