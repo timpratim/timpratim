@@ -9,7 +9,7 @@
 &ensp;
 <br>
 
-I am a Developer Advocate at [Dasha](https://dasha.ai/) interested in **Web3.**
+I am a Developer Advocate at [Nhost] interested in **Web3.**
 
 I have worked from 2020 to 2021 for UBS as a Full Stack Developer.
 
