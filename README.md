@@ -1,33 +1,17 @@
-# Hi 👋, I Am Pratim
+### 👋 Hello world!
+
+My name is Pratim Bhosale. I'm a Developer Advocate and a passionate host on the side. Before entering Developer Relations, I was a Full-Stack developer working for a Swiss Bank. I love breaking down teechnical concepts and you can find a lot of my writings and threads on my [Twitter feed](https://twitter.com/BhosalePratim)
+
+### 🧐 Some Things About Me
+- 🥑 Developer Advocate @ [Nhost](https://nhost.io/)
+- Cool memes and Tech Drama on [Twitter](https://twitter.com/BhosalePratim). 
+- I sometimes write on [Hashnode](https://pratimblogs.hashnode.dev/).
+- 😄 Pronouns: She/her
+- ⚡ Fun facts: I love building growth strategies. I'm a fan of PLG stories and I read books around customer success. 
 
 
-<!-- Actual text -->
+### 🧰 Toolbox
+![HTML](https://img.shields.io/badge/-html5-E34F26?&style=for-the-badge&logo=html5&logoColor=white)![Java](https://img.shields.io/badge/-Java-007396?&style=for-the-badge&logo=java&logoColor=white)![Go](https://img.shields.io/badge/-GO-007396?&style=for-the-badge&logo=go&logoColor=blue)![MySQL](https://img.shields.io/badge/-MySQL-4479A1?&style=for-the-badge&logo=mysql&logoColor=white)![GraphQL](https://img.shields.io/badge/-GraphQL-black?&style=for-the-badge&logo=graphql&logoColor=E10098)![Git](https://img.shields.io/badge/-Git-F05032?&style=for-the-badge&logo=git&logoColor=white)
 
-&ensp;<a href="https://twitter.com/BhosalePratim"><img src="https://cdn.worldvectorlogo.com/logos/twitter-6.svg" title="Twitter" alt="Twitter Account" width="40"/></a>  
-&ensp;<a href="https://www.linkedin.com/in/pratim-bhosale/"><img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" title="Linkedin" alt="Linkedin Account" width="30"/></a>
-&ensp;<a href="https://hashnode.com/@Pratim"><img src="https://github.com/FrancescoXX/FrancescoXX/blob/main/CDyAuTy75.png" title="Hashnode" alt="Hashnode blog" width="30"/></a>
-&ensp;
-<br>
-
-I am a Developer Advocate at Nhost.
-
-I have worked from 2020 to 2021 for UBS as a Full Stack Developer.
-
-I have hosted and spoken at more that 50 Twitter spaces. I am currently hosting **Talk Tech To Me** on **Twitter**  
-
-___
-
-
-## 🥞 Tech Stack
- 
-I keep learning new tech stacks but my favorite ones are Java, SpringBoot, Node.Js, Solidity. 
-
-<br>
- 
-## <a href="https://blog.francescociulla.com/"><img src="https://github.com/FrancescoXX/FrancescoXX/blob/main/CDyAuTy75.png" title="Hashnode" alt="Hashnode blog" width="25"/></a> Recent articles on Hashnode
-
- <!-- BLOG-POST-LIST:START -->
-- [Kickstart your DevRel journey : Part-1](https://pratimblogs.hashnode.dev/kickstart-your-dev-rel-journey-part-1)
-- [Difference between spring springboot and spring-mvc](https://hashnode.com/post/difference-between-spring-springboot-and-spring-mvc-1-ckse5fwl70g51t2s1gci4gi90)
-<!-- BLOG-POST-LIST:END -->
+------
  
