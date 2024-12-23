@@ -3,7 +3,7 @@
 My name is Pratim Bhosale. I'm a Developer Advocate and a passionate host on the side. Before entering Developer Relations, I was a Full-Stack developer working for a Swiss Bank. I love breaking down technical concepts, and you can find a lot of my writings and threads on my [Twitter feed](https://twitter.com/BhosalePratim)
 
 ### 🧐 Some Things About Me
-- 🥑 Developer Advocate @ [SurrealDB](https://surrealdb.com/)
+- 🥑 Developer Advocate
 - Cool memes and Tech Drama on [Twitter](https://twitter.com/BhosalePratim). 
 - I sometimes write on [Hashnode](https://pratimblogs.hashnode.dev/).
 - 😄 Pronouns: She/her
